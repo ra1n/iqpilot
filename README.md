@@ -1,5 +1,5 @@
 # iqpilot
-Open Source Ec2 Agent
+Open Source Instance Agent
 
 Version 0.1  (2020-01-01)
 =========================
